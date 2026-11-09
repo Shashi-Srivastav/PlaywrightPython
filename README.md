@@ -134,7 +134,7 @@ This project demonstrates practical experience with:
 **Shashi Srivastava**
 
 - GitHub: [Shashi-Srivastav](https://github.com/Shashi-Srivastav)
-- Portfolio: [shashi-srivastav.vercel.app](https://shashi-srivastava.vercel.app/)
+- Portfolio: [shashi-srivastava.vercel.app](https://shashi-srivastava.vercel.app/)
 
 ---
 
